@@ -11,9 +11,9 @@ işlendiğini, kimlerle paylaşıldığını ve haklarınızı açıklar. 6698 s
 kapsamında aydınlatma metni niteliğindedir; Avrupa Ekonomik Alanı'ndaki kullanıcılar için Genel Veri Koruma Tüzüğü
 ("GDPR") kapsamındaki bilgilendirmeyi de içerir.
 
-> **Kısaca:** Reklam göstermiyoruz, sizi takip etmiyoruz, konumunuzu, rehberinizi, kameranızı veya mikrofonunuzu
-> kullanmıyoruz ve verilerinizi satmıyoruz. Ödemeleri Google Play alır; kart bilgilerinizi hiçbir
-> zaman görmeyiz.
+> **Kısaca:** Oyunda yalnızca **kendi isteğinizle izlediğiniz ödüllü video reklamlar** vardır (Google AdMob);
+> izlemezseniz reklam görmezsiniz. Konumunuzu, rehberinizi, kameranızı veya mikrofonunuzu kullanmıyoruz ve
+> verilerinizi satmıyoruz. Ödemeleri Google Play alır; kart bilgilerinizi hiçbir zaman görmeyiz.
 
 ---
 
@@ -38,10 +38,12 @@ Gizlilikle ilgili tüm soru ve talepleriniz için Google Play'deki mağaza sayfa
 | **Satın alma kayıtları:** ürün, sipariş/işlem numarası, mağazanın verdiği satın alma belirteci, tarih, iade durumu | Uygulama içi satın alma yaptığınızda | Satın aldığınızı teslim etmek (VIP veya çip), iadeleri ve dolandırıcılığı takip etmek |
 | **18 yaş onayı** | Çip oyunlarından önce onayladığınızda | Yaş sınırını uygulamak |
 | **Teknik veriler:** IP adresi, cihaz ve işletim sistemi türü, uygulama sürümü | Sunuculara bağlandığınızda (hizmet sağlayıcılarımız tarafından) | Bağlantıyı kurmak, güvenlik, hata ayıklama |
+| **Reklam verileri:** reklam kimliği (Android Advertising ID), IP adresi, cihaz bilgileri, reklamla etkileşim (izlendi / kapatıldı) ve reklam onayı tercihiniz | Ödüllü reklam izlediğinizde (Google AdMob tarafından) | Reklamı göstermek ve ölçmek, ödülü vermek, reklam sahtekârlığını önlemek; Avrupa Ekonomik Alanı ve Birleşik Krallık'ta kişiselleştirilmiş reklam yalnızca onayınızla |
 | **Cihazınızda kalan veriler:** ayarlar (ses, dil, tema), çevrimdışı oyun kaydı, alıştırma çipleri, VIP önbelleği | Oyunu kullandığınızda | Sadece cihazınızda saklanır, bize gönderilmez |
 
-**İşlemediğimiz veriler:** konum, rehber, fotoğraflar, kamera, mikrofon, reklam kimliği, sağlık veya finans
-bilgileri (kart numarası dahil). Oyunda reklam, reklam takibi veya üçüncü taraf analitik aracı **yoktur**.
+**İşlemediğimiz veriler:** konum, rehber, fotoğraflar, kamera, mikrofon, sağlık veya finans bilgileri (kart
+numarası dahil). Oyunda banner veya geçiş reklamı ve üçüncü taraf analitik aracı **yoktur**; reklamlar yalnızca siz
+"Reklam izle" düğmesine bastığınızda gösterilir.
 
 ## 3. İşleme amaçları ve hukuki sebepler
 
@@ -50,19 +52,27 @@ bilgileri (kart numarası dahil). Oyunda reklam, reklam takibi veya üçüncü t
 - **Güvenlik, hile ve dolandırıcılığın önlenmesi, iadelerin takibi:** KVKK m.5/2-f — meşru menfaat; GDPR m.6(1)(f).
 - **Yasal yükümlülükler** (ör. resmi makam talepleri, kayıt saklama): KVKK m.5/2-ç; GDPR m.6(1)(c).
 - **18 yaş onayı:** yaş sınırı içeren oyun bölümlerinin hukuka uygun sunulması (KVKK m.5/2-ç ve m.5/2-f).
+- **Ödüllü reklamlar:** istediğiniz reklamı göstermek ve karşılığında çip vermek (KVKK m.5/2-c; GDPR m.6(1)(b)).
+  Avrupa Ekonomik Alanı ve Birleşik Krallık'ta kişiselleştirilmiş reklam ve cihazda bilgi saklama/okuma için
+  Google'ın onay formuyla **açık rızanızı** alırız (GDPR m.6(1)(a)); rızanızı **Ayarlar → Reklam gizlilik
+  seçenekleri** üzerinden istediğiniz zaman değiştirebilir veya geri alabilirsiniz. Reklam kimliğinizi Android
+  ayarlarından sıfırlayabilir veya silebilirsiniz.
 
 Verilerinizi otomatik karar verme yoluyla sizin aleyhinize sonuç doğuracak şekilde kullanmayız. Eşleştirme ve
 derece hesaplaması yalnızca oyun içi sıralama içindir.
 
 ## 4. Verilerin paylaşıldığı taraflar
 
-Verilerinizi **satmayız** ve reklam amacıyla paylaşmayız. Yalnızca şu taraflarla, yalnızca gerekli ölçüde paylaşılır:
+Verilerinizi **satmayız**. Yalnızca şu taraflarla, yalnızca gerekli ölçüde paylaşılır:
 
 - **Unity Technologies** (Unity Gaming Services: Authentication, Cloud Save, Cloud Code, Lobby, Friends,
   Leaderboards) — oyunun sunucu altyapısı; bizim adımıza veri işler.
   Gizlilik politikası: <https://unity.com/legal/privacy-policy>
 - **Google** (Google Play Faturalandırma, Google Play Oyunlar ile giriş) — ödemeleri Google alır ve kart bilgilerinizi
   Google işler. <https://policies.google.com/privacy>
+- **Google AdMob** (Google Mobile Ads SDK ve User Messaging Platform) — ödüllü reklamları gösterir; yukarıdaki reklam
+  verilerini Google'ın kendi politikalarına göre işler. Google'ın verileri nasıl kullandığı:
+  <https://policies.google.com/technologies/partner-sites>
 - **Diğer oyuncular** — görünen adınız, avatarınız, seviyeniz, derece ve skorlarınız, VIP rozetiniz, çevrimiçi durumunuz
   (arkadaşlarınıza) ve masada gönderdiğiniz hazır ifadeler, oyunun doğası gereği diğer oyunculara görünür.
 - **Yetkili kurumlar** — yalnızca yasal bir zorunluluk olduğunda.
