@@ -4,7 +4,7 @@ title: 101 Okey Usta — Gizlilik Politikası
 
 # 101 Okey Usta — Gizlilik Politikası
 
-**Yürürlük tarihi:** 3 Kasım 2026 · **Son güncelleme:** 3 Kasım 2026
+**Yürürlük tarihi:** 3 Kasım 2026 · **Son güncelleme:** 13 Kasım 2026
 
 Bu politika, **101 Okey Usta** Android oyununu ("Oyun") kullandığınızda hangi kişisel verilerin işlendiğini, neden
 işlendiğini, kimlerle paylaşıldığını ve haklarınızı açıklar. 6698 sayılı Kişisel Verilerin Korunması Kanunu ("KVKK")
@@ -156,7 +156,7 @@ Güncel sürüm her zaman bu adreste yayımlanır; üstteki "Son güncelleme" ta
 
 # 101 Okey Usta — Privacy Policy (English summary)
 
-**Effective:** 3 November 2026. The Turkish text above prevails.
+**Effective:** 3 November 2026 · **Last updated:** 13 November 2026. The Turkish text above prevails.
 
 - **Publisher:** the Google Play developer account **muvkors**; contact: the developer e-mail address shown on our Google Play store page.
 - **We process:** a Unity-generated player ID and session data; the Google Play Games account ID if you
@@ -164,11 +164,15 @@ Güncel sürüm her zaman bu adreste yayımlanır; üstteki "Son güncelleme" ta
   rating, statistics); online game data; friends, invites and presence; preset emotes and quick-chat lines only (no
   free text, not stored); virtual chip wallet and history; purchase records (product, order/transaction ID, store
   purchase token, date, refund status — never card data); your 18+ confirmation; technical data (IP address, device
-  and OS type, app version) handled by our service providers.
-- **We do not collect:** location, contacts, photos, camera, microphone or advertising ID. No ads, no ad tracking,
-  no third-party analytics. We never sell your data.
-- **Processors / recipients:** Unity Technologies (Unity Gaming Services), Google (Play Billing, Play Games); other players see your display name, avatar, level, rating, scores, VIP badge and
-  the emotes you send. Data may be transferred outside Turkey (e.g. EU, US) under standard contractual safeguards.
+  and OS type, app version) handled by our service providers; and advertising data (Android Advertising ID, IP address,
+  device info, ad interaction and your consent choice) handled by Google AdMob when you choose to watch a rewarded video ad
+  (personalised ads in the EEA and UK only with your explicit consent via Google's UMP consent form, changeable anytime
+  under *Settings → Ad privacy options*).
+- **We do not collect:** location, contacts, photos, camera, microphone, health or financial/card data. There are no
+  banner or interstitial ads and no third-party analytics; ads are shown only when you tap "Watch ad". We never sell your data.
+- **Processors / recipients:** Unity Technologies (Unity Gaming Services), Google (Play Billing, Play Games), Google AdMob
+  (Google Mobile Ads SDK & User Messaging Platform); other players see your display name, avatar, level, rating, scores,
+  VIP badge and the emotes you send. Data may be transferred outside Turkey (e.g. EU, US) under standard contractual safeguards.
 - **Retention:** account data while your account exists; finished match records at most 90 days; purchase records
   are kept for delivery, refund, fraud prevention and legal obligations, and are anonymised when you delete your
   account.
